@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UXportfolio.git/static/css/main.21d4dd0b.chunk.css",
+    "main.js": "/UXportfolio.git/static/js/main.ecb9be00.chunk.js",
+    "main.js.map": "/UXportfolio.git/static/js/main.ecb9be00.chunk.js.map",
+    "runtime-main.js": "/UXportfolio.git/static/js/runtime-main.6404139b.js",
+    "runtime-main.js.map": "/UXportfolio.git/static/js/runtime-main.6404139b.js.map",
+    "static/js/2.a4317744.chunk.js": "/UXportfolio.git/static/js/2.a4317744.chunk.js",
+    "static/js/2.a4317744.chunk.js.map": "/UXportfolio.git/static/js/2.a4317744.chunk.js.map",
+    "static/js/3.e3070606.chunk.js": "/UXportfolio.git/static/js/3.e3070606.chunk.js",
+    "static/js/3.e3070606.chunk.js.map": "/UXportfolio.git/static/js/3.e3070606.chunk.js.map",
+    "index.html": "/UXportfolio.git/index.html",
+    "static/css/main.21d4dd0b.chunk.css.map": "/UXportfolio.git/static/css/main.21d4dd0b.chunk.css.map",
+    "static/js/2.a4317744.chunk.js.LICENSE.txt": "/UXportfolio.git/static/js/2.a4317744.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6404139b.js",
+    "static/js/2.a4317744.chunk.js",
+    "static/css/main.21d4dd0b.chunk.css",
+    "static/js/main.ecb9be00.chunk.js"
+  ]
+}
