@@ -1,0 +1,53 @@
+.contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: center;
+  background-color: #c6afb1;
+  /* silver pink: */
+  /* background-color: #c6afb1; */
+  /* "old lavender*/
+  /* background-color: #685f74; */
+  font-size: large;
+  height: 70vh;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+}
+.content {
+  justify-content: center;
+  font-size: normal;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: lighter;
+  line-height: 1.8;
+}
+.content a {
+  color: #5a2337;
+  text-decoration: none;
+}
+.contact h2 {
+  /* font-family: sans-serif; */
+  font-family: "Times New Roman", Times, serif;
+  font-weight: normal;
+  font-size: xx-large;
+}
+.CVbutton {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #c6afb1;
+  color: #2d2d34;
+  border: 4px solid #2d2d34;
+}
+
+.CVbutton:hover {
+  border: 4px solid white;
+  color: white;
+}
